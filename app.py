@@ -63,7 +63,7 @@ with st.sidebar:
 # Página: Início
 if page == "Início":
     st.title("Bem-vindo(a) ao meu Portfólio Profissional")
-    st.subheader("Objetivo: Estagiária Jurídica II")
+    st.subheader("Objetivo: Estagiária Jurídica")
     
     st.markdown(
         """
